@@ -1,0 +1,15 @@
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\bin\Debug\net8.0\Trilha-C-.exe
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\bin\Debug\net8.0\Trilha-C-.deps.json
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\bin\Debug\net8.0\Trilha-C-.runtimeconfig.json
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\bin\Debug\net8.0\Trilha-C-.dll
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\bin\Debug\net8.0\Trilha-C-.pdb
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.AssemblyInfoInputs.cache
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.AssemblyInfo.cs
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.csproj.CoreCompileInputs.cache
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.sourcelink.json
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.dll
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\refint\Trilha-C-.dll
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.pdb
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\Trilha-C-.genruntimeconfig.cache
+C:\Users\lekyu\OneDrive\Área de Trabalho\C#\Trilha-C-\obj\Debug\net8.0\ref\Trilha-C-.dll
